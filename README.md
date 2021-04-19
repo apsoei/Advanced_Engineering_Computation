@@ -1,3 +1,7 @@
-# simple description
+# CMU Advanced Engineering Computation problem sets
 
-## do what you wna to say
+## By Jae seok Oh
+
+### Description
+
+
