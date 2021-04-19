@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/24783/public/src/ir_transceiver/lib/cheaplib/cheaputil.cpp
+string.h
+-
+cheaputil.h
+/Users/jaeseoko/24783/public/src/ir_transceiver/lib/cheaplib/cheaputil.h
+
+/Users/jaeseoko/24783/public/src/ir_transceiver/lib/cheaplib/cheaputil.h
+vector
+-
+string
+-
+

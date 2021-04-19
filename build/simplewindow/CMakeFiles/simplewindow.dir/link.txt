@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libsimplewindow.a  CMakeFiles/simplewindow.dir/macosx/fssimplewindowcpp.cpp.o CMakeFiles/simplewindow.dir/macosx/fssimplewindowobjc.m.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libsimplewindow.a

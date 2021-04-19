@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libsimplebitmap.a  CMakeFiles/simplebitmap.dir/simplebitmap.cpp.o CMakeFiles/simplebitmap.dir/yspng.cpp.o CMakeFiles/simplebitmap.dir/yspngenc.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libsimplebitmap.a

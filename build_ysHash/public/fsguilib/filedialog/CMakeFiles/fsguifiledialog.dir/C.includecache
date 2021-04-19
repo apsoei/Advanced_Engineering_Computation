@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/24783/public/src/fsguilib/filedialog/fsguifiledialog_mac.h
+
+/Users/jaeseoko/24783/public/src/fsguilib/filedialog/fsguifiledialog_mac_objc.m
+Cocoa/Cocoa.h
+-
+fsguifiledialog_mac.h
+/Users/jaeseoko/24783/public/src/fsguilib/filedialog/fsguifiledialog_mac.h
+string.h
+-
+

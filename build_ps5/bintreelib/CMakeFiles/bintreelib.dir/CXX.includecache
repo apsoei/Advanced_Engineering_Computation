@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/24783/jaeseoko/ps5/bintreelib/bintree.cpp
+bintree.h
+/Users/jaeseoko/24783/jaeseoko/ps5/bintreelib/bintree.h
+
+/Users/jaeseoko/24783/jaeseoko/ps5/bintreelib/bintree.h
+stdio.h
+-
+cstddef
+-
+math.h
+-
+iostream
+-
+

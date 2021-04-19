@@ -1,0 +1,2 @@
+add_executable(clickdraw MACOSX_BUNDLE main.cpp)
+target_link_libraries(clickdraw fssimplewindow ysbitmapfont)

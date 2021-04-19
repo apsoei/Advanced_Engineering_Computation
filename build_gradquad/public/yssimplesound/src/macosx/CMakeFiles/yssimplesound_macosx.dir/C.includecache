@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/24783/public/src/yssimplesound/src/macosx/yssimplesound_macosx_objc.m
+Cocoa/Cocoa.h
+-
+AVFoundation/AVFoundation.h
+-
+

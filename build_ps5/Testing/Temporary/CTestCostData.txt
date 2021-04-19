@@ -1,0 +1,4 @@
+ps5test 30 0.000841824
+FsSimpleWindow_Resize 0 0
+yssimplesound_makeFromCDDA 0 0
+---

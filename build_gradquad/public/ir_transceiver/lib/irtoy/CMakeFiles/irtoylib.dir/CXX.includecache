@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/24783/public/src/ir_transceiver/lib/cheaplib/cheaputil.h
+vector
+-
+string
+-
+
+/Users/jaeseoko/24783/public/src/ir_transceiver/lib/irtoy/irtoy.cpp
+irtoy.h
+/Users/jaeseoko/24783/public/src/ir_transceiver/lib/irtoy/irtoy.h
+cheaputil.h
+/Users/jaeseoko/24783/public/src/ir_transceiver/lib/irtoy/cheaputil.h
+
+/Users/jaeseoko/24783/public/src/ir_transceiver/lib/irtoy/irtoy.h
+stdio.h
+-
+stdlib.h
+-
+vector
+-
+queue
+-
+string
+-
+chrono
+-
+comport.h
+/Users/jaeseoko/24783/public/src/ir_transceiver/lib/irtoy/comport.h
+
+/Users/jaeseoko/24783/public/src/ir_transceiver/lib/yscomport/comport.h
+vector
+-
+string
+-
+

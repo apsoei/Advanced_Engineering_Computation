@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/24783/MMLPlayer/ym2612/ym2612.cpp
+math.h
+-
+iostream
+-
+ym2612.h
+/Users/jaeseoko/24783/MMLPlayer/ym2612/ym2612.h
+
+/Users/jaeseoko/24783/MMLPlayer/ym2612/ym2612.h
+vector
+-
+string
+-
+
+/Users/jaeseoko/24783/MMLPlayer/ym2612/ym2612wave.cpp
+algorithm
+-
+iostream
+-
+cstring
+-
+ym2612.h
+/Users/jaeseoko/24783/MMLPlayer/ym2612/ym2612.h
+

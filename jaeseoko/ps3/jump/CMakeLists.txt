@@ -1,0 +1,3 @@
+add_executable(jump MACOSX_BUNDLE main.cpp)
+# target_link_libraries(jump fssimplewindow mmlplayer yssimplesound_platform)
+target_link_libraries(jump fssimplewindow yssimplesound_platform mmlplayer ym2612)

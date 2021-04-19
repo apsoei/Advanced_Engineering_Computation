@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libym2612.a  CMakeFiles/ym2612.dir/ym2612.cpp.o CMakeFiles/ym2612.dir/ym2612wave.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libym2612.a

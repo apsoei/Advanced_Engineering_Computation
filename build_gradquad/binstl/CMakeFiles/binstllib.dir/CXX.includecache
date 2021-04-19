@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/24783/course_files/3dGraphics/binstl/binstl.cpp
+binstl.h
+/Users/jaeseoko/24783/course_files/3dGraphics/binstl/binstl.h
+stdio.h
+-
+stdint.h
+-
+fstream
+-
+
+/Users/jaeseoko/24783/course_files/3dGraphics/binstl/binstl.h
+vector
+-
+

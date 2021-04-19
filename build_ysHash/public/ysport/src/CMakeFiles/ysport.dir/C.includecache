@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/24783/public/src/ysport/src/macosx/ysmacosxfileinfo_objc.m
+Cocoa/Cocoa.h
+-
+
+/Users/jaeseoko/24783/public/src/ysport/src/macosx/ysmacosxlocale_objc.m
+Cocoa/Cocoa.h
+-
+
+/Users/jaeseoko/24783/public/src/ysport/src/macosx/ysmacosxrunprocess_objc.m
+
+/Users/jaeseoko/24783/public/src/ysport/src/macosx/ysmacosxspecialpath_objc.m
+Cocoa/Cocoa.h
+-
+mach-o/dyld.h
+-
+
+/Users/jaeseoko/24783/public/src/ysport/src/macosx/ysmacosxsubsectimer_objc.m
+Cocoa/Cocoa.h
+-
+
+/Users/jaeseoko/24783/public/src/ysport/src/macosx/ysopenurlobjc.m
+Cocoa/Cocoa.h
+-
+

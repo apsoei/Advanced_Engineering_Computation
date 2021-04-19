@@ -1,0 +1,2 @@
+add_executable(menutest MACOSX_BUNDLE menutest.cpp)
+target_link_libraries(menutest simplewindow ysglfontdata shootinggame)

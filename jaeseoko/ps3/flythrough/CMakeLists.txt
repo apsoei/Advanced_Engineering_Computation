@@ -1,0 +1,2 @@
+add_executable(flythrough MACOSX_BUNDLE main.cpp)
+target_link_libraries(flythrough fssimplewindow)

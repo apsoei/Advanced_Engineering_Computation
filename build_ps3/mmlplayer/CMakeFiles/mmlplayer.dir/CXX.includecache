@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/24783/MMLPlayer/mmlplayer/defaultFMB.cpp
+mmlplayer.h
+/Users/jaeseoko/24783/MMLPlayer/mmlplayer/mmlplayer.h
+
+/Users/jaeseoko/24783/MMLPlayer/mmlplayer/mmlplayer.cpp
+iostream
+-
+algorithm
+-
+cstring
+-
+mmlplayer.h
+/Users/jaeseoko/24783/MMLPlayer/mmlplayer/mmlplayer.h
+
+/Users/jaeseoko/24783/MMLPlayer/mmlplayer/mmlplayer.h
+chrono
+-
+string
+-
+vector
+-
+cstdint
+-
+ym2612.h
+-
+
+/Users/jaeseoko/24783/MMLPlayer/ym2612/ym2612.h
+vector
+-
+string
+-
+

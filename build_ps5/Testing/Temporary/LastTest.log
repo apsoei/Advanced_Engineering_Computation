@@ -1,0 +1,19 @@
+Start testing: Mar 24 11:04 KST
+----------------------------------------------------------
+1/3 Testing: ps5test
+1/3 Test: ps5test
+Command: "/Users/jaeseoko/24783/build_ps5/ps5_3/ps5_3.app/Contents/MacOS/ps5_3"
+Directory: /Users/jaeseoko/24783/build_ps5/ps5_3
+"ps5test" start time: Mar 24 11:04 KST
+Output:
+----------------------------------------------------------
+test passed
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ps5test" end time: Mar 24 11:04 KST
+"ps5test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 24 11:04 KST

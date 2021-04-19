@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/24783/public/src/yssimplesound/src/nownd/yssimplesound_nownd.cpp
+stdio.h
+-
+yssimplesound.h
+/Users/jaeseoko/24783/public/src/yssimplesound/src/nownd/yssimplesound.h
+
+/Users/jaeseoko/24783/public/src/yssimplesound/src/yssimplesound.h
+vector
+-
+memory
+-
+

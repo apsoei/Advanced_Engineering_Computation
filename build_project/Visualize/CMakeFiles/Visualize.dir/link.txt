@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libVisualize.a  CMakeFiles/Visualize.dir/glutil.cpp.o CMakeFiles/Visualize.dir/mesh.cpp.o CMakeFiles/Visualize.dir/cube.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libVisualize.a
