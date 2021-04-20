@@ -2,6 +2,28 @@
 
 ## By Jae seok Oh
 
+## Public, MML libraries provided by Professor Soji Yamakawa. CMU.
+
+## Requirements and building
+
+- CMake , C++ compiler.
+
+- TO BUILD (example ps1): In current directory (top-level)
+
+`mkdir build`
+
+`cd build`
+
+`cmake ../jaeseoko/ps1/`
+
+In the following, target could be ps # or main. Refer to CMakeLists.txt.
+
+`cmake --build . --config Release --target main`
+
+- To run executable (example ps1): In Mac OS
+
+`./ps1.app/Contents/MacOS/ps1`
+
 ### Description
 
 ## PS 1, 2 - Cannonball game , Bouncing ball simulation (CMAKE practice)
