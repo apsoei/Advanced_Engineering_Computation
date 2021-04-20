@@ -1,4 +1,4 @@
-# CMU Advanced Engineering Computation problem sets
+# CMU Advanced Engineering Computation: Fun applications from problem sets!
 
 ## By Jae seok Oh
 
